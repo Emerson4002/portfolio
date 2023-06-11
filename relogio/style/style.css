@@ -8,7 +8,7 @@
 
 body {
   height: 100vh;
-  background: url(../relogio/wallpaper.jpg);
+  background: url(../wallpaper.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
