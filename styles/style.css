@@ -13,12 +13,18 @@
 
 
 :root{
+  --bg-color: #14232d;
+  --second--bg-color: #0b3044;
+  --text-color:#e99f15;
+  --main-color:#16FF00;
+}
+/*
+:root{
   --bg-color: #1f242d;
   --second--bg-color: #323946;
   --text-color:#fff;
   --main-color:#0ef;
 }
-/*
 :root{
   --bg-color: #7286D3;
   --second--bg-color: #8EA7E9;
